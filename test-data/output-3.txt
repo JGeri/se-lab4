@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500
+SUCCESS  # torpedo fired successfully from the secondary store
